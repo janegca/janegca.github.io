@@ -11,3 +11,4 @@ An organized list of [my gists](gistList.md)
 A blog I created back in 2012 when I was playing around with Python: [PyInMyEye](https://pyinmyeye.blogspot.com/).
 
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)

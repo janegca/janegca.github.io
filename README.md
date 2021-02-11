@@ -14,4 +14,4 @@ A blog I created back in 2012 when I was playing around with Python: [PyInMyEye]
 ## My Github Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=janegca&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+[visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)

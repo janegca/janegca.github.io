@@ -3,6 +3,7 @@
 A simple landing page that lists the projects visible on janegca.github.io
 
 - [100 Days CSS Challenges](https://janegca.github.io/css-challenges/)
+- [CSS Art](https://janegca.github.io/css-art/)
 - [Examples](https://janegca.github.io/examples/)
 - [Frontend Mentor Challenges](https://janegca.github.io/fem-challenges/)
 - [CUBE Methodology (Modified) Example](https://janegca.github.io/cube-art-blog/index.html)
